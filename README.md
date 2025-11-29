@@ -30,5 +30,5 @@
   
 ---
 
-✨ *Thanks for visiting my repository! Feel free to connect and explore my work :)*
+💻🔥 Made for school, fueled by determination (and minor panic).*
 
