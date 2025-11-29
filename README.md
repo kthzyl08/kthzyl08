@@ -30,5 +30,5 @@
   
 ---
 
-💻🔥 Made for school, fueled by determination (and minor panic).*
+💻🔥 Made for school, fueled by determination (and minor panic).
 
