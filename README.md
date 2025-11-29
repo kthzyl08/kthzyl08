@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Keithzylene Pilar
 
-<!--
-**kthzyl08/kthzyl08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 **Education**
+- **School:** New Era University
+- **Course/Program:** Bachelor of Science in Information Technology
+- **Year Level:** 2nd Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 **Certifications**
+- Certification 1 (Year)
+- Certification 2 (Year)
+- Certification 3 (Year)
+
+---
+
+## 💼 **Skillsets**
+- Programming Languages: PHP, Java, SQL
+- Web Development: HTML, CSS, Laragon
+- Tools: VS Code, Figma, IntelliJ
+- Other Skills: Database Management, UI/UX Design
+
+---
+
+## 📫 **Contact**
+- **GitHub:** Your GitHub profile link 
+- **Email:** keithzylene.pilar@neu.edu.ph
+  
+---
+
+✨ *Thanks for visiting my repository! Feel free to connect and explore my work :)*
+
