@@ -10,9 +10,7 @@
 ---
 
 ## 🏅 **Certifications**
-- Certification 1 (Year)
-- Certification 2 (Year)
-- Certification 3 (Year)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/07b10023a8d1440da7a5cc6e8373da0f)
 
 ---
 
