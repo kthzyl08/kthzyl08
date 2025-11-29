@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Keithzylene Pilar
+# ![wave](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) Hi, I'm Keithzylene Pilar
+
 
 ---
 
