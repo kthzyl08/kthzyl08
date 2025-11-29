@@ -17,10 +17,10 @@
 ---
 
 ## 💼 **Skillsets**
-- Programming Languages: PHP, Java, SQL
-- Web Development: HTML, CSS, Laragon
-- Tools: VS Code, Figma, IntelliJ
-- Other Skills: Database Management, UI/UX Design
+- **Programming Languages:** PHP, Java, SQL
+- **Web Development:** HTML, CSS, Laragon
+- **Tools:** VS Code, Figma, IntelliJ
+- **Other Skills:** Database Management, UI/UX Design
 
 ---
 
