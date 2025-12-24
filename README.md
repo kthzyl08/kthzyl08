@@ -12,7 +12,7 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/07b10023a8d1440da7a5cc6e8373da0f)
 - [Oracle Cloud Infrastructure Foundations Associate ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=17860EB0BB235D1C8DF0584865EA029B3269616E979B858C93E260AD4E8DCDCB)
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B4D46C6585DE89B2DE2F2E08B0ED83320EE6B77ACFD3B9F92215BAC55B729048)
-- [Oracle OCI AI Foundations Associate ](url)
+- [Oracle OCI AI Foundations Associate ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=24FB201621E045B2E55FBF4DB82998F27C32E85F1E7662AADDA27B1357B68A12)
 
 ---
 
