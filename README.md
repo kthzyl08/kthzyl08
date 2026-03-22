@@ -32,3 +32,42 @@
 
 💻🔥 Made for school, fueled by determination (and minor panic).
 
+---
+
+# Library Management System
+
+## 🌐 Live Project Demonstration
+I am pleased to present this fully functional, cloud-hosted Library Management System.
+
+**🔗 Access the Live Site Here:** [http://neulibrary.xo.je/](http://neulibrary.xo.je/)
+
+*(Note: The project is deployed live on a cloud server, allowing for real-time database interaction from any device).*
+
+---
+
+## 🎯 Project Overview & Objectives
+Developed in accordance with our project specifications, this system is designed to modernize the traditional library experience. It successfully replaces manual logbooks by providing a secure, digital solution for tracking library visitors, managing user access, and giving administrators clear oversight of facility usage.
+
+My focus during development was to strictly implement the required features while ensuring the application solves real-world administrative bottlenecks through speed, security, and a streamlined user experience.
+
+---
+
+## ✨ Key Features & Technical Highlights
+
+* **🔒 Secure Google OAuth Integration:** Instead of relying solely on basic passwords, users can securely log in using their existing Google Accounts. This required configuring APIs and implementing secure token handling using Composer.
+* **📊 Live Visitor Tracking:** A comprehensive logging system that captures a visitor's First/Last Name, Department, Purpose of Visit, and exact Time-In.
+* **👥 Role-Based Access Control:** Distinct interfaces and permissions for Standard Users, Students, and Library Administrators.
+* **☁️ Cloud Database Architecture:** The backend is powered by a live, remote MySQL database using secure PDO (PHP Data Objects) connections to prevent SQL injection attacks.
+
+---
+
+## 🛠️ Technology Stack
+To bring this project from a local environment to the web, I utilized the following technologies:
+
+* **Frontend:** HTML5, CSS3, JavaScript (Responsive Design)
+* **Backend:** PHP 8.x
+* **Database:** MySQL (Structured via HeidiSQL/phpMyAdmin)
+* **Authentication:** Google OAuth 2.0 API
+* **Package Management:** Composer
+* **Deployment & Hosting:** InfinityFree Cloud Hosting (Apache Server)
+
