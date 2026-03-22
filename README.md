@@ -32,17 +32,16 @@
 
 💻🔥 Made for school, fueled by determination (and minor panic).
 
+
 ---
+
 
 # Library Management System
 
 ## 🌐 Live Project Demonstration
 I am pleased to present this fully functional, cloud-hosted Library Management System.
 
-**🔗 Access the Live Site Here:** [http://neulibrary.xo.je/](http://neulibrary.xo.je/)
-
-*(Note: The project is deployed live on a cloud server, allowing for real-time database interaction from any device).*
-
+> 🌐 **Live Environment:** [`neulibrary.xo.je`](http://neulibrary.xo.je/)
 ---
 
 ## 🎯 Project Overview & Objectives
